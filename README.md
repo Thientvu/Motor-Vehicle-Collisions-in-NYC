@@ -8,10 +8,6 @@ Certainly! Below is a one-page `readme.md` file for your Streamlit app:
 
 This Streamlit dashboard provides an interactive analysis of motor vehicle collisions in New York City. It leverages various visualization tools to help users explore and understand patterns in collision data.
 
-## Data Source
-
-https://drive.google.com/file/d/1mv4QRAJJL-1TD7_X08d5VHazyaA6_VhT/view?usp=share_link
-
 ## Features
 
 1. **Map of Injuries:**
