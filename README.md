@@ -1,7 +1,3 @@
-Certainly! Below is a one-page `readme.md` file for your Streamlit app:
-
----
-
 # Motor Vehicle Collisions in NYC - Streamlit Dashboard
 
 ## Overview
