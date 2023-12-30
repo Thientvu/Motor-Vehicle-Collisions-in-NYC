@@ -4,7 +4,7 @@ import numpy as np
 import pydeck as pdk 
 import plotly.express as px
 
-DATA_URL = "https://drive.google.com/uc?id=1mv4QRAJJL-1TD7_X08d5VHazyaA6_VhT"
+DATA_URL = "Motor_Vehicle_Collisions_-_Crashes.csv"
 
 @st.cache_data(persist = True)
 def load_data(nrows):
